@@ -1,3 +1,10 @@
+/**
+ * Print hello world and date
+ *
+ * Author Chethiya Ranaweera
+ * Version 2018.04.25
+ */
+
 package edu.pcc.cis.helloworld;
 
 import java.util.Date;
